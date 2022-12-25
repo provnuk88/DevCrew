@@ -1,0 +1,25 @@
+.join_main{
+    max-width: 553px;
+    max-height: 311px;
+    margin:0 auto;
+    margin-bottom: 240px;
+}
+
+.join_main_title{
+    margin-bottom: 25px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+
+
+}
+.join_main_desc{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.55);
+    margin-bottom: 100px;
+}

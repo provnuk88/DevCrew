@@ -1,0 +1,31 @@
+.brand_main{
+    padding: 55px 82px;
+    max-width: 1224px;
+    background: rgba(44, 53, 61, 0.2);
+backdrop-filter: blur(25px);
+border-radius: 25px;
+overflow:hidden;
+}
+.brand_main_title{
+margin-bottom: 55px;
+text-align: center;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+}
+
+.brand_main_icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.elipse{
+    width: 159px;
+    height: 159px;
+    background-color: rgba(255, 72, 66, 0.4);   
+    border-radius:50%;
+    filter: blur(64px);
+    position:absolute;
+    left: -108px;
+    top: -87px;
+}

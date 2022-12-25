@@ -1,0 +1,96 @@
+.nav_group{
+display: flex;
+justify-content: space-between;
+align-items: center;
+position: relative;
+
+}
+.logo{
+    display: flex;
+    align-items:center;
+}
+.logo_name{
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    padding-left: 12px;
+}
+
+.button_menu, .log {
+    color: rgba(255, 255, 255, 0.55);
+    margin-right: 40px;
+    cursor: pointer;
+    
+}
+
+.login {
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: rgba(255, 255, 255, 0.78);
+
+}
+.log {
+    background-color:inherit;
+    border:none;
+}
+.sing_up {
+    background: #FF6E30;
+    padding: 12px 28px;
+    border-radius: 8px;
+    border:none;
+    color: rgba(255, 255, 255, 0.78);
+    cursor: pointer;
+
+}
+.sub_menu{
+    max-width: 600px;
+    padding: 105px 0 40px 0;
+    
+}
+
+.sub_menu_title{
+font-weight: 500;
+font-size: 50px;
+line-height: 140%;
+color: rgba(255, 255, 255, 0.9);
+margin-bottom: 30px;
+}
+.sub_menu_desc{
+max-width: 490px;
+font-size: 18px;
+line-height: 30px;
+color: rgba(255, 255, 255, 0.55);
+margin-bottom: 60px;
+}
+.sub_menu_form{
+    background: #283036;
+    max-width: 500px;
+    min-height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    border-radius:15px;
+    padding: 0 10px 0 20px;
+    margin-bottom: 110px;
+}
+.sub_menu_imput{
+    background: #283036;
+    border:none;
+    margin-left: 12px;
+    width: 250px;
+}
+.sub_menu_input_wrapper{
+    display: flex;
+    align-items:center;
+}
+.Illustration{
+    position:absolute;
+    top:130px;
+    right: -100px;
+}
+
+strong{
+    color:#FF6E30;
+    font-size:50px
+}

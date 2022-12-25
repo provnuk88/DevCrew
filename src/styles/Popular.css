@@ -1,0 +1,47 @@
+.main_pipular{
+
+}
+
+.title_popular{
+    padding-top: 360px;
+    max-width: 455px;
+    margin: 0 auto;
+    margin-bottom: 90px;
+}
+
+.title_popular_tag{
+font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+text-align: center;
+color: rgba(255, 255, 255, 0.9);
+margin-bottom: 25px;
+}
+
+.title_popular_desc{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.grid_items{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 100px;
+    column-gap: 25px;
+    }
+
+._main_load{
+    max-width:184px;
+    margin: 0 auto;
+    margin-top: 100px;
+    height: 64px;
+    color: #FF6E30;
+    font-weight: 500;
+    font-size: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    cursor: pointer;
+}

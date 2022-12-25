@@ -1,0 +1,49 @@
+.main_footer{
+    display: flex;
+    border-top: 0.5px solid rgba(255, 255, 255, 0.15);
+    justify-content: space-between;
+    padding: 70px 108px 98px 108px
+}
+
+.company{
+    max-width: 260px;
+}
+
+.company_logo{
+    display: flex;
+    align-items:center;
+    
+}
+
+.logo_name{
+    padding-left: 12px;
+}
+.footer_desc{
+padding-top: 21px;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+color: rgba(255, 255, 255, 0.55);
+}
+
+.logo_main{
+    padding-top: 25px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.9);
+}
+.footer_title{
+    font-weight: 500;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 20px;
+}
+.footer_link{
+    margin-bottom: 10px;
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.55);
+}

@@ -1,0 +1,40 @@
+.new_comer_main{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.new_comer_title{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    max-width: 427px;
+
+}
+.new_comer_desc{
+    color: rgba(255, 255, 255, 0.55)    ;
+    font-size: 18px;
+    line-height: 38px;
+    margin-bottom: 50px;
+
+}
+
+
+.sing_up {
+    background: #FF6E30;
+    padding: 12px 28px;
+    border-radius: 8px;
+    border:none;
+    color: rgba(255, 255, 255, 0.78);
+
+}
+
+.new_comer_grid{
+    display: grid;
+    max-width: 600px;
+    grid-template-columns: 1fr 1fr ;
+    gap: 20px 40px;
+}
